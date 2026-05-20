@@ -1,5 +1,5 @@
 # Hi I'm Boris N'KUAKO <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a frontend developer with 3+ years of experience building user-focused web interfaces.  
+I'm a frontend developer with 4+ years of experience building user-focused web interfaces.  
 
 I care about:
 - Clean, accessible and scalable UI code
